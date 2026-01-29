@@ -1,5 +1,30 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>A data-driven Influencer Management System with structured workflows, analytics, and reporting.<br><br>👯 I’m looking to collaborate on  <br>Data analysis projects, dashboards, SQL-based systems, and full-stack web applications.<br><br>🤝 I’m looking for help with  <br>Advanced data visualization, performance analytics, and optimizing database queries.<br><br>🌱 I’m currently learning  <br>Data analytics, SQL optimization, dashboard design, and backend system architecture.<br><br>💬 Ask me about  <br>Data analysis, database design, admin dashboards, automation logic, and full-stack development.<br><br>⚡ Fun fact  <br>I enjoy turning messy data into clean insights and well-structured systems.<br>
+<h1>💫 About Me:</h1>
+<p>
+🔭 <strong>I’m currently focused on</strong><br>
+Building and sharpening my skills in data analysis and software development, with an emphasis on analytics-driven systems, structured workflows, and clean backend logic.
+</p>
+<p>
+👯 <strong>I’m looking to collaborate on</strong><br>
+Data analysis projects, interactive dashboards, SQL-centric applications, and full-stack web development initiatives.
+</p>
+<p>
+🤝 <strong>I’m looking for help with</strong><br>
+Advanced data visualization techniques, performance-focused analytics, and improving database efficiency and query optimization.
+</p>
+<p>
+🌱 <strong>I’m currently learning</strong><br>
+Data analytics, SQL optimization, dashboard design principles, and backend system architecture.
+</p>
+<p>
+💬 <strong>Ask me about</strong><br>
+Data analysis, database schema design, admin dashboards, automation logic, and full-stack development concepts.
+</p>
+<p>
+⚡ <strong>Fun fact</strong><br>
+I enjoy converting messy, unstructured data into clean insights and well-organized systems.
+</p>
+
 
 
 ## 🌐 Socials:
