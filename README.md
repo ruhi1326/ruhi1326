@@ -1,5 +1,4 @@
 # 💫 About Me:
-<h1>💫 About Me:</h1>
 <p>
 🔭 <strong>I’m currently focused on</strong><br>
 Building and sharpening my skills in data analysis and software development, with an emphasis on analytics-driven systems, structured workflows, and clean backend logic.
